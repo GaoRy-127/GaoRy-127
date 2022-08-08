@@ -6,7 +6,7 @@ __가형순(Ka Hyeong Soon)__
 
 
 ## 학교
-  * (2017 ~ ) [전북대학교 항공우주공학과](https://aerospace.jbnu.ac.kr/aerospace/index.do)  
+  * (2017 ~ )[전북대학교 항공우주공학과](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
 ## 경험
   * Data Sci & Control Sys : __Matlab,Labview,Simulink__
