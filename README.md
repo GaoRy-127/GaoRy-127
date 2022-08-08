@@ -9,15 +9,15 @@ __가형순(Ka Hyeong Soon)__
   * (2017 ~ )[전북대학교 항공우주공학과](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
 ## 경험
-  * Data Sci & Control Sys : __Matlab,Labview,Simulink__
+  * Data Sci & Control Sys : __:star2:Matlab, Labview, Simulink__
   * 언어: __C, Python__ 
   * 딥러닝: __Tenserflow__(Nvidia딥러닝)🌱
   * OS: __Windows__
   * 웹: __HTML, CSS, JavaScript__ (Learning Now!)🌱
-  * 도구: __VS Code, Matlab__
+  * 도구: __VS Code, Matlab, Colab__
 
 
-# 프로젝트s
+# 프로젝트
 
 ## [교과 프로젝트]
   ### C 프로그래밍 프로젝트
@@ -27,13 +27,10 @@ __가형순(Ka Hyeong Soon)__
   
   ### 기타 항공우주프로젝트
 
-
-## 팀 프로젝트 
-  ###
+ 
 
 
 #### 연락
-  - [Github Repo Issue](_)
   - [Email](mailto:gaory0127@gmail.com)
 
 
