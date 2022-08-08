@@ -21,7 +21,7 @@ __가형순(Ka Hyeong Soon)__
 
 ## [교과 프로젝트]
   ### C 프로그래밍 프로젝트
-    *[TicTacToe](https://github.com/GaoRy-127/TicTacToe)
+  * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)
     
   ### Matlab 프로젝트
   
