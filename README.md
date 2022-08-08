@@ -28,9 +28,9 @@ __가형순(Ka Hyeong Soon)__
   ### 기타 항공우주프로젝트
 
  
+------
 
-
-#### 연락
+#### To Contect
   - [Email](mailto:gaory0127@gmail.com)
 
 
