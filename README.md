@@ -21,7 +21,8 @@ __가형순(Ka Hyeong Soon)__
 
 ## [교과 프로젝트]
   ### C 프로그래밍 프로젝트
-  
+    *[TicTacToe](https://github.com/GaoRy-127/TicTacToe)
+    
   ### Matlab 프로젝트
   
   ### 기타 항공우주프로젝트
@@ -29,10 +30,6 @@ __가형순(Ka Hyeong Soon)__
 
 ## 팀 프로젝트 
   ###
-
-
-## 개인 프로젝트
-  *[EigenFace](https://github.com/SWtheWhite/EigenFace)
 
 
 #### 연락
