@@ -8,6 +8,7 @@ __가형순(Ka Hyeong Soon)__
 ## 학교
   * (2017 ~ )[전북대학교 항공우주공학과](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
+
 ## 경험
   * Data Sci & Control Sys : __:star2:Matlab, Labview, Simulink__
   * 언어: __C, Python__ 
@@ -30,7 +31,7 @@ __가형순(Ka Hyeong Soon)__
  
 ------
 
-#### To Contect
+## To Contect
   - [Email](mailto:gaory0127@gmail.com)
 
 
