@@ -26,6 +26,7 @@ __가형순(Ka Hyeong Soon)__
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
   
   ### Matlab 프로젝트
+  * [Newton Raphson Method](https://github.com/GaoRy-127/NewtonRaph)<br/>
 
   
   ### 기타 항공우주프로젝트
