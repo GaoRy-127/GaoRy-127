@@ -21,7 +21,8 @@ __가형순(Ka Hyeong Soon)__
 ## Project
   
   ### Matlab 프로젝트
-  * [Newton Raphson Method](https://github.com/GaoRy-127/NewtonRaph)<br/>
+  * [Newton Raphson Method](https://github.com/GaoRy-127/NewtonRaph)     
+  * [NGE](https://github.com/GaoRy-127/NGE)<br/>
   
   ### C 프로그래밍 프로젝트
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
