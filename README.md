@@ -35,7 +35,7 @@ __가형순(Ka Hyeong Soon)__
 ------
 
 ## To Contect
-  > [Email](mailto:gaory0127@gmail.com)
+  > [Email](mailto:gaory0127@gmail.com) : gaory0127, Gmail
 
 
 
