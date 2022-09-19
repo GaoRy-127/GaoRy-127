@@ -13,7 +13,7 @@ __가형순(Ka Hyeong Soon)__
   * Data Sci & Control Sys : __:star2:Matlab, Labview, Simulink__
   * 언어: __C, Python__ 
   * 딥러닝: __Tenserflow__(Nvidia딥러닝)🌱  
-  * Web: __HTML, CSS, JavaScript__ (Learning Now!)🌱
+  * Web: __HTML5, CSS, JavaScript__ (Learning Now!)🌱
   * Working tools: __VS Code, Matlab, Colab__
   * Working OS: __Windows__
 <br/><br/> 
