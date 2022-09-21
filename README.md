@@ -2,7 +2,7 @@
 
 __가형순(Ka Hyeong Soon)__
   * 🌱배워가는 중.. 
-  * 👀Matlab을 통한 문제풀이
+  * 👀Matlab을 통한 문제풀이:star2:
 
 <br/><br/>
 ## 학교
