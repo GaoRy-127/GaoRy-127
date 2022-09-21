@@ -27,8 +27,11 @@ __가형순(Ka Hyeong Soon)__
    ### C 프로그래밍 프로젝트
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
   
-   ### 기타 항공우주프로젝트
+   ### 항공우주프로젝트
   * 빌딩풍을 고려한 UAM 경로계획
+  
+   ### 캡스톤 디자인
+  * Proceeding..
   
 <br/><br/><br/> 
     
