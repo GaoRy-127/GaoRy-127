@@ -28,7 +28,7 @@ __가형순(Ka Hyeong Soon)__
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
   
    ### 항공우주프로젝트
-  * 빌딩풍을 고려한 UAM 경로계획
+  * CFD based MLM
   
    ### 캡스톤 디자인
   * Proceeding..
