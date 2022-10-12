@@ -31,7 +31,7 @@ __가형순(Ka Hyeong Soon)__
   * CFD based MLM
   
    ### 캡스톤 디자인
-  * Proceeding..
+  * Proceeding...
   
 <br/><br/><br/> 
     
