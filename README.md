@@ -28,7 +28,7 @@ __가형순(Ka Hyeong Soon)__
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
   
    ### 항공우주프로젝트
-  * CFD based MLM
+  * CFD based MLM (On Working)
   
    ### 캡스톤 디자인
   * Proceeding...
