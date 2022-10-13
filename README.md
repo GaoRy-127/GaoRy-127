@@ -11,8 +11,8 @@ __가형순(Ka Hyeong Soon)__
 <br/><br/>
 ## About me
   * Data Sci & Control Sys : __:star2:Matlab, Labview, Simulink__
-  * 언어: __C, Python__ 
-  * 딥러닝: __Tenserflow__(Nvidia딥러닝)🌱  
+  * Language: __C, Python__ 
+  * DeepLearning: __Tenserflow__(Nvidia딥러닝)🌱  
   * Web: __HTML5, CSS, JavaScript__ (Learning Now!)🌱
   * Working tools: __VS Code, Matlab, Colab__
   * Working OS: __Windows__
@@ -20,17 +20,17 @@ __가형순(Ka Hyeong Soon)__
       
 ## Project
   
-   ### Matlab 프로젝트
+   ### Matlab
   * [Newton Raphson Method](https://github.com/GaoRy-127/NewtonRaph)     
   * [NGE](https://github.com/GaoRy-127/NGE)<br/>
   
-   ### C 프로그래밍 프로젝트
+   ### C 
   * [TicTacToe](https://github.com/GaoRy-127/TicTacToe)<br/>  
   
-   ### 항공우주프로젝트
-  * CFD based MLM (On Working)
+   ### AeroSpace Project
+  * CFD using DeepLearning (On Working)
   
-   ### 캡스톤 디자인
+   ### CapStone Design
   * Proceeding...
   
 <br/><br/><br/> 
