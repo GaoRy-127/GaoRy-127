@@ -31,7 +31,7 @@ __가형순(Ka Hyeong Soon)__
   * CFD using DeepLearning (On Working)
   
    ### CapStone Design
-  * Detection system for Blind(using RADAR)
+  * Detection system for Blind(using RADAR) (On Working)
   
 <br/><br/><br/> 
     
