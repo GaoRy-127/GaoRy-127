@@ -5,7 +5,7 @@ __가형순(Ka Hyeong Soon)__
   * 👀Matlab을 이용한 공학문제 풀이:star2:
 
 <br/><br/>
-## 학교
+## Degree
   * (2017 ~ )[Jeonbuk national university-AeroSpaceEngineering](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
 <br/><br/>
