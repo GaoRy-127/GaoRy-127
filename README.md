@@ -6,7 +6,7 @@ __가형순(Ka Hyeong Soon)__
 
 <br/><br/>
 ## 학교
-  * (2017 ~ )[전북대학교 항공우주공학과](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
+  * (2017 ~ )[Jeonbuk national university-AeroSpaceEngineering](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
 <br/><br/>
 ## About me
