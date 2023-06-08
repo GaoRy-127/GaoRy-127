@@ -6,7 +6,8 @@ __가형순(Ka Hyeong Soon)__
 
 <br/><br/>
 ## Degree
-  * (2017 ~ )[Jeonbuk national university-AeroSpaceEngineering](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
+  * (2023 ~ ) Master Degree students at Aerospace Robotics and Mechatronics Lab (https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
+  * (2017 ~ 2023) B.S of AeroSpace Engineering at [Jeonbuk national university-AeroSpaceEngineering](https://aerospace.jbnu.ac.kr/aerospace/index.do) :rocket:
 
 <br/><br/>
 ## About me
